@@ -1,6 +1,6 @@
 body {
   font-family: 'Poppins', sans-serif;
-  background-color: #f3e5f5; /* Fundo roxo claro */
+  background-color: #f7f7f7; /* Fundo claro */
   margin: 0;
   padding: 0;
   color: #333;
@@ -35,16 +35,7 @@ body {
   margin-top: 0.5rem;
 }
 
-/* Imagem do Cadeado no fundo */
-.conteudo-titulo {
-  background-image: url('cadeado.png');
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: 80px 80px;
-  padding-top: 40px;
-  padding-bottom: 20px;
-}
-
+/* Imagem do Cadeado */
 .imagem-cadeado {
   width: 80px;
   height: 80px;
