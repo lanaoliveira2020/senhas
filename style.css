@@ -1,6 +1,6 @@
 body {
   font-family: 'Poppins', sans-serif;
-  background-color: #f7f7f7; /* Fundo claro */
+  background-color: #f3e5f5; /* Fundo roxo claro */
   margin: 0;
   padding: 0;
   color: #333;
@@ -112,14 +112,14 @@ body {
 
 .parametro-senha-checkbox input {
   margin-right: 10px;
-  accent-color: #ad3dee;
+  accent-color: #7d5fff;
 }
 
 /* Barra de Força */
 .barra {
   width: 100%;
   height: 8px;
-  background-color: #d09de4;
+  background-color: #e0e0e0;
   border-radius: 8px;
   margin-top: 10px;
 }
