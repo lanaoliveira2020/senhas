@@ -112,14 +112,14 @@ body {
 
 .parametro-senha-checkbox input {
   margin-right: 10px;
-  accent-color: #7d5fff;
+  accent-color: #ad3dee;
 }
 
 /* Barra de Força */
 .barra {
   width: 100%;
   height: 8px;
-  background-color: #e0e0e0;
+  background-color: #d09de4;
   border-radius: 8px;
   margin-top: 10px;
 }
