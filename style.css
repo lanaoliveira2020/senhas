@@ -35,7 +35,16 @@ body {
   margin-top: 0.5rem;
 }
 
-/* Imagem do Cadeado */
+/* Imagem do Cadeado no fundo */
+.conteudo-titulo {
+  background-image: url('cadeado.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 80px 80px;
+  padding-top: 40px;
+  padding-bottom: 20px;
+}
+
 .imagem-cadeado {
   width: 80px;
   height: 80px;
